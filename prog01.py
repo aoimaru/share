@@ -1,3 +1,2 @@
 print("aoi")
 
-print("ryoga")
