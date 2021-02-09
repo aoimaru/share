@@ -1,6 +1,7 @@
 import sys
 
 def test() -> None:
+    print("test")
     pass
 
 
