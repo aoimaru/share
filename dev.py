@@ -9,6 +9,13 @@ class User(object):
     def out_ok():
         print("ok")
 
+class Student(object):
+    def __init__(self, id):
+        self.id = id
+    @classmethod
+    def create_student(cls, id):
+        return cls(id)
+        
 
 
 
