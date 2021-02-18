@@ -3,6 +3,7 @@ import sys
 def test() -> None:
     print("test")
     print("kohei")
+    print("aoimaru")
     pass
 
 
