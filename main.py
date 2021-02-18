@@ -2,6 +2,7 @@ import sys
 
 def test() -> None:
     print("test")
+    print("kohei")
     pass
 
 
